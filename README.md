@@ -1,3 +1,3 @@
 # essays
 Juncture visual essays
-.ve-media https://ids.lib.harvard.edu/ids/view/17386663?width=3000&height=3000
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/230438
